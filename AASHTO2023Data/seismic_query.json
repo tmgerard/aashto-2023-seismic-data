@@ -1,0 +1,10 @@
+{
+    "aashto-2023": {
+        "query": "https://earthquake.usgs.gov/ws/designmaps/aashto-2023/spectra/{0}/{1}/{2}",
+        "latitude-min": -33.0,
+        "latitude-max": 72.0,
+        "longitude-min": -200.0,
+        "longitude-max": 151.0,
+        "allowable-site-classes": ["A", "B", "BC", "C", "CD", "D", "DE", "E"]
+    }
+}
