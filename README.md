@@ -17,10 +17,10 @@ The program uses the latitude, longitude, and soil site classification provided 
 ## Set Up
 The program uses several libraries for the program interface, output, testing, and deployment.
 
-- [TTKBootstrap](https://ttkbootstrap.readthedocs.io/en/latest/gettingstarted/installation/)
-- Matplotlib
-- Pytest
-- Pyinstaller
+- [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/gettingstarted/installation/)
+- [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
+- [pytest](https://docs.pytest.org/en/7.1.x/getting-started.html)
+- [PyInstaller](https://pyinstaller.org/en/stable/)
 
 The following pacakges can be installed using pip in the command line.
 
