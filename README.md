@@ -1,5 +1,5 @@
 # AASHTO 2023 Seismic Data
-With the release of the latest [AASHTO Guide Specifications for LRFD Bridge Seismic Design, 3rd Edition](https://store.transportation.org/item/collectiondetail/251) a new seismic design reponse spectrum model is required. The new response spectrum is built from a series of 22 data points that are available in the AASHTO-USGS Seismic Design Ground Motion Database. AASHTO Guide Specification Article 3.4.1 provides the following:
+With the release of the latest [AASHTO Guide Specifications for LRFD Bridge Seismic Design, 3rd Edition](https://store.transportation.org/item/collectiondetail/251) a new seismic design reponse spectrum model is required. The new response spectrum is built from a series of 22 data points that are available in the AASHTO-USGS Seismic Design Ground Motion Database. AASHTO Guide Specification Article 3.4.1 states the following:
 
 > *Risk-targeted design response spectra shall be constructed using response spectral accelerations taken from the AASHTO–USGS Seismic Design Ground Motion Database developed by the USGS using the 2018 NSHM, as described in this Article.*
 >
